@@ -1,0 +1,5 @@
+Different communities have different different visions of data mining. Can you give the epistemological perspective on data mining, the one from the database community, the machine learning community, the inductive database vision, the way businesses consider data mining?
+Give an abstract vision of the knowledge discovery process and qualify it.
+Many data are objects described with attributes. Categorize those attributes w.r.t. their "types" and explain what kind of processes (derivation of other attributes, statistics, and data mining algorithms) requires what "type" of attribute(s).
+When mining data, the analyst should always be careful of the many problems encountered in real datasets. Can you give some of them? What statistical assumption is usually made on the objects in the dataset?
+What does it mean for a statistic to be robust? Can you give examples of a robust and a non-robust statistic of the centrality of a distribution? Of its dispersion? Of the correlation between two interval-scaled attributes?

@@ -1,0 +1,405 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ~\\
+{
+{
+}
+}
+  -1, -2 and -3 respectively remove the first, second and third column
+  {1,2} (prints unpairable lines from the specified file too), -i
+  A few commands inside \texttt{less}: Page-up/down, R (repaint), F
+  A few options: -[0-9]+ tunes the number of lines (10 by default), -f
+  A few options: -1 NUM (set the field on which the join is done in
+  A few options: -c (give the counts of repetitions), -d (only print
+  A few options: -c specifies the first set as the complement of the
+  A few options: -r (reverse sort), -f (ignore case), -n (numeric
+    algorithms are applicable;
+  Almost all POSIX text processing commands:
+    and \texttt{`}).
+  an executable file whose first line indicates the command-line
+\AtBeginSection[]
+    Attribution-ShareAlike 4.0 International License.
+\author{Loïc Cerf}
+  \begin{alertblock}{Exercise for next Wednesday}
+  \begin{block}{\copyright 2012--2015 Loïc Cerf}
+  \begin{block}{Unix philosophy}
+\begin{document}
+    \begin{enumerate}
+    \begin{enumerate}
+  \begin{exampleblock}{A 2-line shell script}
+  \begin{exampleblock}{Exercise}
+  \begin{exampleblock}{Exercise}
+  \begin{exampleblock}{Exercise}
+  \begin{exampleblock}{Exercise}
+  \begin{exampleblock}{Exercise}
+  \begin{exampleblock}{Exercise}
+  \begin{exampleblock}{Exercise}
+  \begin{exampleblock}{Exercise}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+\begin{frame}
+  \begin{frame}<beamer>
+\begin{frame}[plain]
+  \begin{itemize}
+  \begin{itemize}
+  \begin{itemize}
+  \begin{itemize}[<+->]
+    \begin{quotation}
+  \bigskip\\
+  broken w.r.t. whitespaces, \texttt{\$} precedes a shell variable
+  character in the first set with the one at the same position in the
+  command on the left to the standard input of the command on the
+  commands:
+    Concatenate the files related to the visits to the Ubuntu page.
+\date{August, 31$^{\text{st}}$ 2015}
+  DCC -- ICEx -- UFMG
+\documentclass{beamer}
+% \documentclass[handout]{beamer}
+  Do not test your scripts on the whole dataset!
+    Doug McIlroy (inventor of Unix pipes). In \emph{A Quarter-Century
+  -d specifies the delimiter.
+  -d specifies the delimiter, -f specifies the fields \texttt{cut}
+  duplicates), -m (merge already sorted files).
+  efficient. The GNU project, started in 1984, has improved them a
+  \emph{sorted} according to their join field.
+  \end{alertblock}
+  \end{block}
+  \end{block} 
+\end{document}
+    \end{enumerate}
+    \end{enumerate}
+  \end{exampleblock}
+  \end{exampleblock}
+  \end{exampleblock}
+  \end{exampleblock}
+  \end{exampleblock}
+  \end{exampleblock}
+  \end{exampleblock}
+  \end{exampleblock}
+  \end{exampleblock}
+  \end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+\end{frame}
+  \end{itemize}
+  \end{itemize}
+  \end{itemize}
+  \end{itemize}
+    \end{quotation}
+    exceptions, uncertain/noisy or even plainly wrong;
+    far to tell how many times each of these keywords occurs in the
+  fields in the interval), -t (set the field separator), -u (remove
+  file (second column) and those common to both files (third column).
+    Find, with \texttt{less}, the IP address of the first Brazilian
+  (follow), [0-9]+ (scroll that many lines), / (search forwards for a
+  follows the appended data.
+  \frametitle{Basic reformatting with \texttt{tr}}
+  \frametitle{Comparing}
+  \frametitle{Concatenating files}
+  \frametitle{Counting lines, words or characters}
+  \frametitle{Data exploration}
+  \frametitle{Exercise}
+  \frametitle{Geeks and repetitive tasks}
+  \frametitle{Getting the data}
+  \frametitle{Joining}
+  \frametitle{License}
+    \frametitle{Outline}
+  \frametitle{Pasting}
+  \frametitle{Printing the beginning/end of a file}
+  \frametitle{Reading a large text file}
+  \frametitle{Reporting or omitting repeated lines}
+  \frametitle{Selecting fields}
+  \frametitle{Sorting}
+  \frametitle{Standard I/O}
+  \frametitle{The shell}
+  \frametitle{Translating characters}
+  \frametitle{Unix philosophy}
+  \frametitle{Utilities from the 70s}
+    From one of the file in \texttt{DistroWatch.com}'s logs:
+    From one of the file in \texttt{DistroWatch.com}'s logs, get rid
+  from the output.
+    Given a list of keywords and a text, use the commands presented so
+  Given, in argument, two sets of characters, the \texttt{tr} command
+  good compatibility layer.
+  great deal (\eg, additional options). The original commands are part
+\hypersetup{pdfpagemode=FullScreen}
+  (ignore case), -t CHAR (set delimiter).
+  illumos, Haiku, etc. Mac OS X is too. Windows is not but Cygwin is a
+  (in argument of \texttt{mkfifo}) but most workflows only need the
+    \includegraphics[height=1.5ex]{img/licenses/cc-by-sa}\hskip1pt
+  \includegraphics[width=.334113288\linewidth]{images/dcc}\hfill\includegraphics[width=.5\linewidth]{images/ufmg}
+  \includegraphics[width=\linewidth]{img/repetitive-tasks}
+    input (\texttt{/dev/stdin}) or the standard output
+\institute
+  interpreter. Modern shells (\texttt{bash}, \texttt{dash},
+    In \texttt{DistroWatch.com}'s logs:
+    In \texttt{DistroWatch.com}'s logs, rank the countries by their
+    In \texttt{DistroWatch.com}'s logs, what are the number of visits
+  in the order they are given.
+  \item a backslash can precede every special character;
+  \item a (portion of an) argument can be enclosed with single quotes
+  \item Attributes can be categorized into four types: nominal,
+  \item Basic statistics and visualizations help a lot in
+    \item change the delimiters into spaces;
+  \item Correlation does not imply causation.
+  \item Data usually are incomplete, inconsistent, with some
+    \item How many different countries are there?
+  \item long options are prefixed with \texttt{{-}{-}}, short (\ie,
+    \item make the country codes lower cased.
+    \item On the 29th, what are the countries where the visitors have
+  \item options can have an argument and \texttt{-} means the standard
+  \item process the input line by line;
+  \item read, by default, the standard input (the keyboard if not
+  \item the \texttt{info} command (\eg, \texttt{info wget}) often
+  \item the \texttt{man} command (\eg, \texttt{man wget}) gives their
+  \item The type tells what operations, statistics and data mining
+  \item the unnamed pipe, \texttt{|}, redirects the standard output of
+  \item write, by default, on the standard output (the terminal if not
+\keywords{text files, commands, POSIX}
+  LC\_ALL variable (you may want LC\_ALL=C).
+      loaded some page but not that of Ubuntu?
+  main memory what raises problems if it weights gigabytes or more.
+  Most Free operating systems are POSIX-compliant: GNU/Linux, BSD,
+  must keep.
+\newcommand{\eg}{e.\,g.}
+\newcommand{\Eg}{E.\,g.}
+\newcommand{\ie}{i.\,e.}
+\newcommand{\Ie}{I.\,e.}
+  Notice that the shell (\ie, the command interpreter) understands
+    numbers of accesses to the index page during the three days.
+  of some POSIX standards.
+    of the IP addresses.
+      of Unix} (1994):\\
+    one letter) options with \texttt{-} and can be grouped (\eg,
+    ordinal, interval-scaled and ratio-scaled;
+  outputs those unique to the first file (first column), to the second
+  \pause
+  \pause
+  \pause
+  \pause
+  \pause
+  \pause
+  \pause
+  \pause
+  \pause
+  \pause
+  \pause
+    per day to the Ubuntu page. Is there something special (compare
+  pipe binds an output stream to an input stream. It can bear a name
+    Print the lines 5 to 15 of one of the file in
+  provided characters -s squeezes the repetitions of the characters in
+    provides more detailed explanations, examples of use, etc.;
+  reads the standard input and outputs it after replacing every
+    redirected);
+    redirected).
+  regexp), ? (search backwards for a regexp), q (quit).
+  repeated lines), -u (only print unique lines) -i (ignore case).
+  repeated up to the size of the first set.
+  right.
+  \scriptsize
+  second set. The last character in the second set is considered
+\section*{}
+\section*{Homework}
+\section*{Simple but powerful text-processing commands}
+\section*{Summary of the last session}
+  some characters in a special way. For instance, the command line is
+  sort), -c (check if sorted), -k POS1[,POS2] (sort according to the
+    specifications;
+\subject{Simple but Powerful Text-Processing Commands}
+\subtitle{Simple but Powerful Text-Processing Commands}
+    \tableofcontents[currentsection]
+  tail.
+    text.
+    \texttt{\#!/bin/sh}\\
+  \texttt{comm} compares the lines of two \emph{sorted} files and
+    (\texttt{/dev/stdout});
+    \texttt{DistroWatch/20100428/debian}.
+    \texttt{DistroWatch.com}'s logs.
+    \texttt{\# Get started with the MDA exercises}\\
+  \texttt{head} outputs the head of a file; \texttt{tail} its
+  \texttt{join} joins the lines of two files. Both files must be
+  \texttt{man} pages.
+    \texttt{mv data data-`date +\%m\%d` 2> /dev/null}\\
+  \texttt{<}/\texttt{>} redirects the standard I/O from/to a file. A
+  \texttt{wget} and \texttt{tar} are two GNU commands. Like all GNU
+    \texttt{wget \url{dcc.ufmg.br/~lcerf/data.tar.xz} -O - | tar -xJ}
+  \texttt{\$ wget \url{dcc.ufmg.br/~lcerf/data.tar.xz} -O - | tar -xJ}
+    \texttt{-xJ});
+  \texttt{zsh}, etc.) extend the original UNIX shell, \texttt{sh},
+  that are still very useful today. Specific, these commands are very
+      that is a universal interface.
+    the command on the left to the standard input of the command on
+  The \emph{shell} interprets every command fired in a terminal or in
+  the first file), -2 NUM (in the second file), -j (in both files), -a
+  the first set, -d deletes those characters.
+  there is an empty field between two subsequent delimiters.
+    the right.
+    These slides are licensed under the Creative Commons
+  The solution is named \texttt{less}. It is the viewer for
+  The \texttt{cat} command concatenates files and prints them.
+  The \texttt{cut} command selects fields. \texttt{cut} considers that
+  The \texttt{paste} command concatenates the lines of the input files
+  The \texttt{sort} command sorts a text file. It depends on the
+  The \texttt{uniq} command removes \emph{adjacent} repeated lines.
+  The \texttt{wc} command counts the number of lines (option -l), of
+  The Unix operating system came with several text-processing commands
+\title{Mineração de Dados Aplicada}
+  \titlepage
+      to work together. Write programs to handle text streams, because
+    understanding the data; looking at specific objects too;
+  unnamed pipe, \texttt{|}, that redirects the standard output of the
+\usepackage[american]{babel}
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usetheme{dcc}
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+  \vfill
+    visitor after the $100^{\text{th}}$ line of
+  which is normalized in POSIX.
+  whose content is to be read, etc. To preserve the literal meaning:
+    (with double quotes to still let the shell interpret \texttt{\$}
+    with other distributions)?
+  words (option -w) or of characters (option -m).
+      Write programs that do one thing and do it well. Write programs
+  Your favorite text editor (Vim or Emacs?) loads the entire file in

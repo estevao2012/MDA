@@ -1,0 +1,3 @@
+What is an outlier? What visualization helps in discovering outliers w.r.t. one attribute?, two attributes? Do you know a way to detect outliers in a higher-dimensional space?
+What is the difference between regression and correlation? Which one is closer to a classification?, to frequent itemset mining? Can you explain the sentence "correlation does not imply causation"?
+What are the assumptions behind the use of a Pearson correlation? Can you name a correlation measure that applies to nominal attributes?, to ordinal attributes?

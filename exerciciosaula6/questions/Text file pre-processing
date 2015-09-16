@@ -1,0 +1,4 @@
+Can you give some POSIX commands that specifically aim to 1) concatenate files, 2) to "join" them w.r.t. a given field?, 3) to add fields from another file?
+Can you give some POSIX commands that specifically aim to select lines 1) at the beginning/end of a file?, 2) based on a regular expression?, 3) with no repetition? What about selecting columns of a structured file?
+Can you present the sed command (with a focus on substituting a regular expression)?
+Can you explain the Shell script that was used to select this question?
